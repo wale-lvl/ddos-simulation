@@ -1,4 +1,4 @@
-# DDoS Attack Simulation (Local Environment)
+# DDoS Attack Simulation! (Local Env)
 
 ## Overview
 
