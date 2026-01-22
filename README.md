@@ -1,6 +1,6 @@
 # DDoS Attack Simulation
 
-I Simulated a TCP SYN Flood DDoS attack on a local Apache web server using `hping3`, and analyzed traffic with `Wireshark`.
+I simulated a TCP SYN Flood DDoS attack on a local Apache web server using `hping3`, and analyzed traffic with `Wireshark`.
 
 ## Tools Used
 
